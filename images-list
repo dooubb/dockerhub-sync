@@ -1,0 +1,5 @@
+redis:latest
+nginx:latest
+alpine:latest
+ghcr.io/open-webui/open-webui:main
+nginxinc/nginx-unprivileged:latest
