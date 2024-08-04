@@ -1,4 +1,1 @@
-redis:7.2.5
-mysql:9.0.1
-postgres:16.3
-mcr.microsoft.com/mssql/server:2022-latest
+mysql:8.4.2
