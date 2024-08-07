@@ -1,2 +1,3 @@
-mysql:8.0.39
-nginx
+maven:3.9.8-amazoncorretto-17
+gcr.io/kaniko-project/executor:latest
+alpine/git:v2.26.2
